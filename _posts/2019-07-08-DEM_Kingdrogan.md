@@ -8,9 +8,6 @@ header-img: img/post-bg-dem.png
 catalog: true
 tags:								
     - DEM
-    - 无人机
-    - 河网分析
-    
 ---
 
 ## Hey
