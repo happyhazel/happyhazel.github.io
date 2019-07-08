@@ -4,7 +4,7 @@ title:      基于DEM研究空间分辨率对河网精度的影响 				# 标题
 subtitle:   The effect of spatial resolution on stream network accuracy using digital terrain models: A comparative approach #副标题
 date:       2019-07-08 				# 时间
 author:     Hazel Wang 						# 作者
-header-img: img/post-bg-2015.jpg 	#这篇文章标题背景图片
+header-img: img/post-bg-dem.png 	#这篇文章标题背景图片
 catalog: true 						# 是否归档
 tags:								#标签
     - DEM
