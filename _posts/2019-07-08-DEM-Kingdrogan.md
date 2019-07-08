@@ -1,14 +1,18 @@
 ---
-layout:     post   				   
+layout:     post
 title:      基于DEM研究空间分辨率对河流网络精度的影响
 subtitle:   The effect of spatial resolution on stream network accuracy using digital terrain models: A comparative approach
 date:       2019-07-08
-author:     Hazel Wang
+author:     Hazel
 header-img: img/post-bg-dem.png
 catalog: true
-tags:								
+tags:
     - DEM
+    - 无人机
+    - 河网分析
 ---
+
+
 
 ## Hey
 >这是我的第一篇博客。
